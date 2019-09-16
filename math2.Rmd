@@ -1,0 +1,5 @@
+---
+title: "다변량 데이터 알아보기2"
+output: html_document
+---
+
